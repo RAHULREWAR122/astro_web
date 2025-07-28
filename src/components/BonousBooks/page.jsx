@@ -31,7 +31,7 @@ import React, { useState, useEffect } from 'react';
       id: 1,
       title: "Tarot Card Reading Course",
       subtitle: " From Basics to Advanced – Learn to decode life through cards",
-      image: "/images/books/tarot_card_.png",
+      image: "/images/books/tarot_card__.png",
       price: "₹9,000/-",
       bgColor: "from-yellow-600 to-orange-700"
     },
@@ -39,7 +39,7 @@ import React, { useState, useEffect } from 'react';
       id: 2,
       title: "Numerology Course", 
       subtitle: "Master the science of numbers to unlock your destiny",
-      image: "/images/books/numerology_.png",
+      image: "/images/books/numerology__.png",
       price: "₹25,000/-",
       bgColor: "from-red-600 to-red-800"
     },
